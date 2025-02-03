@@ -43,13 +43,9 @@
     "logsbot": {
       "allow": true
     }
-<<<<<<< HEAD:configCommands.json
   },
   "commandUnload": [
     "baby.js"
   ]
 }
-=======
-  }
-}
->>>>>>> 7732bdadfbd5679773dfe39419fe65d9c3cc5535:configCommands.dev.json
+
